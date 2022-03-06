@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+}
+h1 {
+  text-align: center;
+  color: rgb(0, 132, 255);
+  font-size: 50px;
+}
+.Laptop-Brands {
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: #019267;
+  color: white;
+  font-size: 15px;
+  border: none;
+  margin: 10px;
+}
+
+.dell {
+  display: none;
+  /* display: flex; */
+}
+.apple {
+  display: none;
+  /* display: flex; */
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
